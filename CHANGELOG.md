@@ -8,11 +8,15 @@ Setup the [curseforge page](https://www.curseforge.com/minecraft/modpacks/metano
 
 Made an [icon](https://github.com/06000208/metanoia/tree/master/assets) for the pack
 
-**Configuration/Tweaks**
+**Added configuration for**
 
-- Configured [It's the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things)
-  - Changed 32 bit java message and enabled the warning
-  - Added Metanoia's icon and name
+- [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks)
+  - Increased black sheep spawn weight
+  - Disabled wither spawn sound and ender dragon death sound
+  - Enabled flammable cobwebs
+  - Enabled named entities dropping their name tags upon death
+  - Nearby monsters will glow for 4 seconds when a player is blocked from sleeping
+  - Enabled better button names
 
 **Mods Added**
 
@@ -30,6 +34,5 @@ Made an [icon](https://github.com/06000208/metanoia/tree/master/assets) for the 
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - [Born in a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn)
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
-- [It's the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things)
 - [NotEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/notenoughids)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (FastWorkbench, FastFurnace)
