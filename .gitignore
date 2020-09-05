@@ -5,3 +5,5 @@
 *.tar
 *.vscode
 *.ink
+exports/*
+!exports/.gitkeep
