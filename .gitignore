@@ -4,6 +4,6 @@
 *.7z
 *.tar
 *.vscode
-*.ink
+*.lnk
 exports/*
 !exports/.gitkeep
