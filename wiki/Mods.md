@@ -31,6 +31,8 @@ For optional mods, see [this page](https://github.com/06000208/metanoia/wiki/Opt
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - [Born in a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn)
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
+- [Surge](https://www.curseforge.com/minecraft/mc-mods/surge)
 
 ### Pack Mods
 

@@ -1,7 +1,5 @@
 ## `0.0.1` / `2020-09-05`
 
-_this version is not finished, and the following changelog is incomplete/currently being written_
-
 First version!
 
 Setup the [curseforge page](https://www.curseforge.com/minecraft/modpacks/metanoia), [repository](https://github.com/06000208/metanoia), and [wiki](https://github.com/06000208/metanoia/wiki)
@@ -38,5 +36,7 @@ Made an [icon](https://github.com/06000208/metanoia/tree/master/assets) for the 
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - [Born in a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn)
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
+- [Surge](https://www.curseforge.com/minecraft/mc-mods/surge)
 - [NotEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/notenoughids)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (FastWorkbench, FastFurnace)
