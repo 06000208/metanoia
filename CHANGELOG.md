@@ -21,6 +21,9 @@ Made an [icon](https://github.com/06000208/metanoia/tree/master/assets) for the 
 - [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches)
   - Started using the window name feature
 
+- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+  - Enabled the recipe book
+
 **Mods Added**
 
 - [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks)
