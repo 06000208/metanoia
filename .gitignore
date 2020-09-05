@@ -2,6 +2,7 @@
 *.tgz
 *.zip
 *.7z
+*.gz
 *.tar
 *.vscode
 *.lnk
