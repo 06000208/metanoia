@@ -17,10 +17,8 @@ Made an [icon](https://github.com/06000208/metanoia/tree/master/assets) for the 
   - Enabled named entities dropping their name tags upon death
   - Nearby monsters will glow for 4 seconds when a player is blocked from sleeping
   - Enabled better button names
-
 - [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches)
   - Started using the window name feature
-
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
   - Enabled the recipe book
 
