@@ -8,7 +8,13 @@ Setup the [curseforge page](https://www.curseforge.com/minecraft/modpacks/metano
 
 Made an [icon](https://github.com/06000208/metanoia/tree/master/assets) for the pack
 
-**Mods Added:**
+**Configuration/Tweaks**
+
+- Configured [It's the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things)
+  - Changed 32 bit java message and enabled the warning
+  - Added Metanoia's icon and name
+
+**Mods Added**
 
 - [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks)
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
@@ -24,5 +30,6 @@ Made an [icon](https://github.com/06000208/metanoia/tree/master/assets) for the 
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - [Born in a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn)
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
+- [It's the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things)
 - [NotEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/notenoughids)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (FastWorkbench, FastFurnace)
