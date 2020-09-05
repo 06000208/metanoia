@@ -18,6 +18,9 @@ Made an [icon](https://github.com/06000208/metanoia/tree/master/assets) for the 
   - Nearby monsters will glow for 4 seconds when a player is blocked from sleeping
   - Enabled better button names
 
+- [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches)
+  - Started using the window name feature
+
 **Mods Added**
 
 - [RandomTweaks](https://www.curseforge.com/minecraft/mc-mods/randomtweaks)
