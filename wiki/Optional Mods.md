@@ -1,9 +1,8 @@
-This page is intended to list mods not included within the pack itself to give end users and server hosts more control over their games.
+This page is intended to list mods not included within the pack itself to give end users and server hosts more control over their games
 
-Note that:
+Client or server sided mods which *are* included in the pack or server files are not listed here
 
-- Mods already included in the pack or server files are not listed here
-- I have marked mods that I'm not confident recommending with an asterisk
+Mods I'm not confident recommending have been indicated using asterisks
 
 ## Client Side
 

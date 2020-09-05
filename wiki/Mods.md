@@ -34,7 +34,6 @@ For optional mods, see [this page](https://github.com/06000208/metanoia/wiki/Opt
 
 ### Pack Mods
 
-- [It's the little things](https://www.curseforge.com/minecraft/mc-mods/its-the-little-things)
 - [NotEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/notenoughids)
 
 ### Dependencies
