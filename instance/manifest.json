@@ -1,0 +1,104 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2854",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Metanoia",
+  "version": "0.0.1",
+  "author": "06000208",
+  "files": [
+    {
+      "projectID": 285789,
+      "fileID": 2641661,
+      "required": true
+    },
+    {
+      "projectID": 235107,
+      "fileID": 2695044,
+      "required": true
+    },
+    {
+      "projectID": 258205,
+      "fileID": 2995996,
+      "required": true
+    },
+    {
+      "projectID": 256717,
+      "fileID": 2666198,
+      "required": true
+    },
+    {
+      "projectID": 286230,
+      "fileID": 2572528,
+      "required": true
+    },
+    {
+      "projectID": 318255,
+      "fileID": 2747710,
+      "required": true
+    },
+    {
+      "projectID": 285612,
+      "fileID": 3035526,
+      "required": true
+    },
+    {
+      "projectID": 229876,
+      "fileID": 2483393,
+      "required": true
+    },
+    {
+      "projectID": 232791,
+      "fileID": 2818064,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 2987247,
+      "required": true
+    },
+    {
+      "projectID": 299540,
+      "fileID": 2706111,
+      "required": true
+    },
+    {
+      "projectID": 292785,
+      "fileID": 2915154,
+      "required": true
+    },
+    {
+      "projectID": 278494,
+      "fileID": 2845668,
+      "required": true
+    },
+    {
+      "projectID": 233019,
+      "fileID": 2450734,
+      "required": true
+    },
+    {
+      "projectID": 272515,
+      "fileID": 2685984,
+      "required": true
+    },
+    {
+      "projectID": 283644,
+      "fileID": 2694382,
+      "required": true
+    },
+    {
+      "projectID": 288885,
+      "fileID": 2838777,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
