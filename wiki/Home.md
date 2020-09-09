@@ -1,5 +1,3 @@
 Welcome to the metanoia wiki!
 
-As of now, the mod pack is not currently available.
-
-This wiki will document the current mod list and recommended optional mods, as well as all the changes, quirks, and configuration differences the pack has to offer.
+This wiki will document the current [mod list](https://github.com/06000208/metanoia/wiki/Mods) and recommended [optional mods](https://github.com/06000208/metanoia/wiki/Optional-Mods), as well as all the changes, quirks, and configuration differences the pack has to offer.
