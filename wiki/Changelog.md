@@ -1,10 +1,10 @@
-## `0.0.1` / `2020-09-05`
+## `0.0.1` / `2020-09-09`
 
 First version!
 
 Setup the [curseforge page](https://www.curseforge.com/minecraft/modpacks/metanoia), [repository](https://github.com/06000208/metanoia), and [wiki](https://github.com/06000208/metanoia/wiki)
 
-Made an [icon](https://github.com/06000208/metanoia/tree/master/assets) for the pack
+An [icon](https://github.com/06000208/metanoia/tree/master/assets) was contributed by an anonymous artist
 
 **Configuration Added**
 
